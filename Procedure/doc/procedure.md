@@ -113,4 +113,4 @@ Online Image Vectorizerというサービスを利用し、画像をSVG形式に
 - [Geek Dojoアクリル板枚数](https://docs.google.com/spreadsheets/d/1uDBB9SodrVZSNPJrtWRJF4fX7Tl_8-21VgOjDVtsEaQ/edit?usp=sharing) : シート２に色の説明画像もあります。
 - [あるあるトラブル](https://docs.google.com/spreadsheets/d/1OapK_HnBMLim75Laok5cMkfY5h4Lu2_lsoPCFTRIJG8/edit?usp=sharing) : キーホルダーで頻繁に起こるトラブルとその解決策をまとめました。
 - [レーザーカッターの利用方法](https://github.com/AizuGeekDojo/LaserCutterInstruction/tree/master/doc_pdf) : 講習会資料としても利用されます。
-- [Aizu Geek Dojoキーホルダー制作ウェブサイト]() : 予約の仕方、レーザーカッター以外の設備もまとめてあります。
+- [オリジナルキーホルダー作りウェブサイト](https://aizugeekdojo.github.io/KeyHolder/WebSite/) : 予約の仕方、レーザーカッター以外の設備もまとめてあります。
