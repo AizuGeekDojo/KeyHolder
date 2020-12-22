@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  line-height: 3em;
+  text-align: center;
+  background: url(img/background/7.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  z-index: -1;
+}
+
+/*Title*/
+a {
+  color: white;
+  display: block;
+}
+h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-block; /**/
+  padding: 10px 20px;
+  border: white 5px solid;
+  color: white;
+  font-size: 2em;
+  font-weight: 900;
+}
+.bottom ul {
+  display: inline-block;
+  text-align: left;
+  line-height: 1.5em;
+  font-size: 0.8em;
+  list-style: none;
+  margin-left: 30px;
+  text-align: center;
+}
+.bottom {
+  background: rgb(211, 211, 211);
+  padding-top: 10px;
+  margin-top: 50px;
+}
+
+.bottom img {
+  margin-left: 30px;
+  width: 50px;
+}
+iframe[src^="https://docs.google.com/forms/d/e"]
+{
+  width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+  .iframe {
+  }
+}
