@@ -101,7 +101,7 @@ Vectorizerは異なる色を区切る線を１本作成するだけなので、�
 3. 余分なパスを削除します。紐を通すための穴は土台と、上のパーツ両方に残すようにしてください。（パスを赤で表現）  
 <img src="../img/3/blueprint.jpg" width="400px">    
 
-1. 上記の画像のようにパーツごとの枠を描画したら、利用するアクリル板ごとに別ファイルに移し、レーザーカッターでカットします。  
+4. 上記の画像のようにパーツごとの枠を描画したら、利用するアクリル板ごとに別ファイルに移し、レーザーカッターでカットします。  
 例）カット後のパーツ  
 <img src="../img/3/parts.jpg" width="400px">
 
@@ -112,13 +112,13 @@ Vectorizerは異なる色を区切る線を１本作成するだけなので、�
 1. 使用するボンド、キーホルダー用の紐は、Geek Dojo入ってすぐ左の白いトレーの中にあります。  
  <img src="../img/4/tray.jpg" width="300px">
 
-1. ボンドを使って、土台と上に置くパーツを接着します。  
+2. ボンドを使って、土台と上に置くパーツを接着します。  
 
-1. 紐を付けて完成です。  
+3. 紐を付けて完成です。  
    例）紐をつけたキーホルダー（完成品）  
    <img src="../img/4/finished.jpg" width="300px">
 
-1. [Geek Dojoアクリル板枚数](https://docs.google.com/spreadsheets/d/1uDBB9SodrVZSNPJrtWRJF4fX7Tl_8-21VgOjDVtsEaQ/edit?usp=sharing)を更新して終了
+4. [Geek Dojoアクリル板枚数](https://docs.google.com/spreadsheets/d/1uDBB9SodrVZSNPJrtWRJF4fX7Tl_8-21VgOjDVtsEaQ/edit?usp=sharing)を更新して終了
 
 <a id="anchor5"></a>
 
